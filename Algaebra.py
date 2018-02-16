@@ -7,6 +7,9 @@ print ("Evaluate 4x+7y+2a*-3^2 where x=1, y=2 and a=3.") # Prints the first ques
 #   t.start() # starts the timer
 answer_answer = input("Answer: ")
 if (answer_answer = "-36"):
-    print "Yay! Next question: Evaluate 22x*4y where x=10 and y=2."
+    print ("Yay! Next question: Evaluate 22x*4y where x=10 and y=2.")
  
     
+else:
+    print ("Fail!")
+    sys.exit()
