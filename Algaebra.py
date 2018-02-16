@@ -9,7 +9,13 @@ time.sleep(1.0)
 x = random.randint(1, 30)
 y = random.randint(1, 30)
 a = random.randint(1, 30)
-print ("Evaluate 4x+7y+2a*-3^2" + " where x equals," + x + " y equals" + y + " and a equals" + a ".") # Prints the first question
+print ("Evaluate 4x+7y+2a*-3^2".)
+print ("where x equals\n")
+print (x)
+print ("y equals\n")
+print (y)
+print ("and A equals")
+print (a) 
 #   t.start() # starts the timer
 answer_answer = int(input("Answer: "))
 if answer_answer == -36:
