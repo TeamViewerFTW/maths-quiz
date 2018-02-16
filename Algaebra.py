@@ -1,4 +1,5 @@
 from threading import Timer
+import sys
 print ("Welcome to the Algebra Quiz: Python Edition!")
 print ("Question 1.")
 time.sleep("1")
