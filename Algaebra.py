@@ -22,7 +22,7 @@ correct_01 = (4 * x)
 correct_02 = (7 * y)
 correct_03 = (2 * a)
 correct_answer = (correct_01 + correct_02 + correct_03 * -3 ** 2)
-def question2();
+def question2():
     print ("Yay! Next question: Evaluate 22x*4y ")
     x = random.randint(1, 30)
     y = random.randint(1, 30)
