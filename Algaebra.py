@@ -16,7 +16,6 @@ print ("y equals")
 print (y)
 print ("and A equals")
 print (a) 
-answer = 
 #   t.start() # starts the timer
 answer_answer = int(input("Answer: "))
 correct_answer = (4x+7y+2a*-3^2)
