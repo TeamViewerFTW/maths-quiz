@@ -18,7 +18,7 @@ print ("and A equals")
 print (a) 
 #   t.start() # starts the timer
 answer_answer = int(input("Answer: "))
-correct_answer = (4x+7y+2a*-3^2)
+correct_answer = ("4" + x +)
 if answer_answer == correct_answer:
     print ("Yay! Next question: Evaluate 22x*4y where x=10 and y=2.")
  
