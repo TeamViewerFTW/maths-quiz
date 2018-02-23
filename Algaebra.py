@@ -30,12 +30,11 @@ def question2():
     print (x)
     print ("and y equals")
     print (y)
-    print "."
     correct_01 = (22 * x)
     correct_02 = (4 * y)
     correct_answer = (correct_01 * correct_02)
     answer_answer = int(input("Answer: "))
-    if answer_answer = correct_answer:
+    if answer_answer == correct_answer:
         question3()
 
 if answer_answer == correct_answer:
