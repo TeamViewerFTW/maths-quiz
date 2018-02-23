@@ -22,8 +22,24 @@ correct_01 = (4 * x)
 correct_02 = (7 * y)
 correct_03 = (2 * a)
 correct_answer = (correct_01 + correct_02 + correct_03 * -3 ** 2)
+def question2();
+    print ("Yay! Next question: Evaluate 22x*4y ")
+    x = random.randint(1, 30)
+    y = random.randint(1, 30)
+    print ("where x equals")
+    print (x)
+    print ("and y equals")
+    print (y)
+    print "."
+    correct_01 = (22 * x)
+    correct_02 = (4 * y)
+    correct_answer = (correct_01 * correct_02)
+    answer_answer = int(input("Answer: "))
+    if answer_answer = correct_answer:
+        question3()
+
 if answer_answer == correct_answer:
-    print ("Yay! Next question: Evaluate 22x*4y where x=10 and y=2.")
+  question2()  
  
     
 elif answer_answer == "":
@@ -32,3 +48,5 @@ elif answer_answer == "":
 else:
     print ("Fail!")
     sys.exit()
+
+    
